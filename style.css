@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+}
+.box-1 {
+  background-color: aqua;
+  color: black;
+  margin: 20px;
+  padding: 20px;
+}
+
+.box-2 {
+  background-color: burlywood;
+  color: black;
+  margin: 20px;
+  padding: 20px;
+  width: 50%;
+  position: absolute;
+  top: -50px;
+  left: -20px;
+  z-index: -1;
+}
